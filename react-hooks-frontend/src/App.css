@@ -1,0 +1,49 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+body{
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  
+}
+
+.text{
+  color: beige;
+}
+
+
+.text1{
+  color: aliceblue;
+}
+
+nav{
+  background-color: cadetblue;
+  padding: 16px 32px;
+}
+
+nav a{
+  margin-right: 16px;
+}
+
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
